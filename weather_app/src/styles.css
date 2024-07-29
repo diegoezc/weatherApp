@@ -1,0 +1,21 @@
+.title-app{
+    background-color: rgb(44, 155, 230);
+    border-radius: 15px 15px 0px 0px;
+    box-shadow: 13px 11px 21px 0px rgba(143,143,143,0.7);
+    color: white;
+}
+
+.body-app{
+    background-color: rgb(223, 231, 235);
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 13px 11px 21px 0px rgba(143,143,143,0.7);
+}
+
+.fondo{
+    background-color: rgb(44, 155, 230);
+    width: 125px;
+    height: 30px;
+    border-radius: 6px;
+    padding-top: 5px;
+    color: white;
+}
